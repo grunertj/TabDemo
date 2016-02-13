@@ -8,6 +8,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
+
 /**
  * Created by Werner-Jens Grunert on 2/5/2016.
  */

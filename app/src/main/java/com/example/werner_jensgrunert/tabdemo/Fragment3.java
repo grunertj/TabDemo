@@ -35,7 +35,6 @@ public class Fragment3 extends Fragment {
     private boolean mClockStopped = false;
 
 
-
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         RelativeLayout view = (RelativeLayout) inflater.inflate(R.layout.frag3, container, false);
